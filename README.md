@@ -36,8 +36,8 @@
 
 - 项目：
     - [x] `healthy`、`mes`
-    - [x] `webserver`
-    - [x] `QT`斗地主
+    - [x] `WebServer`
+    - [x] `QT Landlords`
 
 - 简历：
     - [x] 完成了第一版
