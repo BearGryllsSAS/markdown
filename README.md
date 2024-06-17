@@ -35,9 +35,9 @@
     - [ ] 其他
 
 - 项目：
-    - [x] 一个healthy系统项目，一个mes项目
-    - [x] 一个webserver项目 
-    - [x] 一个qt斗地主项目
+    - [x] `heal`、`mes`
+    - [x] `webserver`
+    - [x] `QT`斗地主
 
 - 简历：
     - [x] 完成了第一版
