@@ -35,7 +35,7 @@
     - [ ] 其他
 
 - 项目：
-    - [x] `heal`、`mes`
+    - [x] `healthy`、`mes`
     - [x] `webserver`
     - [x] `QT`斗地主
 
