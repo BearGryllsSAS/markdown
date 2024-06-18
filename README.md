@@ -39,9 +39,9 @@
     - [ ] 其他
 
 - 项目：
-    - [x] `healthy`、`mes`
-    - [x] `WebServer`
-    - [x] `QT Landlords`
+    - [x] `healthy`、`mes`（企业级）
+    - [x] `WebServer`（个人）
+    - [x] `QT Landlords`（个人）
 
 - 简历：
     - [x] 第一版
