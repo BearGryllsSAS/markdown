@@ -58,7 +58,12 @@
     - [x] 计算机网络 
 
 - 其他：
+    - [x] `Git`
+    - [x] `make`
+    - [x] `cmake`
     - [x] `docker`
+    - [ ] `redis`
+    - [ ] `mq`
     
 
 
