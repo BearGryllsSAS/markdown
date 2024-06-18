@@ -48,6 +48,14 @@
     - [x] 基本指令
     - [ ] `Shell`脚本
 
+- 其他：
+    - [x] `Git`
+    - [x] `Docker`
+    - [x] `CMake`
+    - [x] `Makefile`    
+    - [ ] `Redis`（了解即可）
+    - [ ] `RocketMQ`（了解即可）
+
 - 项目：
     - [x] `healthy`、`mes`（企业级）
     - [x] `WebServer`（个人）
@@ -61,16 +69,6 @@
     - [x] `C++`
     - [x] 操作系统
     - [x] 计算机网络 
-
-- 其他：
-    - [x] `Git`
-    - [x] `Docker`
-    - [x] `CMake`
-    - [x] `Makefile`    
-    - [ ] `Redis`（了解即可）
-    - [ ] `RocketMQ`（了解即可）
-    
-
 
 ## 2 计划
 
