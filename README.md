@@ -52,6 +52,7 @@
     - [x] `healthy`、`mes`（企业级）
     - [x] `WebServer`（个人）
     - [x] `QT Landlords`（个人）
+    - [ ] `QT`聊天室（个人）
 
 - 简历：
     - [x] 第一版（不断更新迭代）
