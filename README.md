@@ -59,11 +59,11 @@
 
 - 其他：
     - [x] `Git`
-    - [x] `make`
-    - [x] `cmake`
-    - [x] `docker`
-    - [ ] `redis`
-    - [ ] `mq`
+    - [x] `Docker`
+    - [x] `CMake`
+    - [x] `Makefile`    
+    - [ ] `Redis`（了解即可）
+    - [ ] `RocketMQ`（了解即可）
     
 
 
