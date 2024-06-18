@@ -46,7 +46,7 @@
 
 - Linux：
     - [x] 基本指令
-    - [ ] 'Shell'脚本
+    - [ ] `Shell`脚本
 
 - 项目：
     - [x] `healthy`、`mes`（企业级）
